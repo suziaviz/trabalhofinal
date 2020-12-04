@@ -1,4 +1,4 @@
-# Unidade 8 - Padrões de Projeto e JPA
+# Trabalho final da Disciplina: aplicação web (DAO com JPA p/ Cadastro de Clientes e Pedidos)
  * Este projeto foi desenvolvido a patir do modelo sugerido e disponivel em https://github.com/cmartins-ifpa/jpa-app-web.git
 
 ## Ferramentas utilizadas:
